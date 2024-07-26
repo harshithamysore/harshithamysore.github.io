@@ -6,5 +6,5 @@ I am a third-year PhD student in the Department of Astronomy at the University o
 
 I hold a Master’s degree in Physics from the University of Bangalore.
 
-![DP](https://github.com/user-attachments/assets/7ab90dac-4c15-4a7c-b330-ff269262117d)
+![DP](https://github.com/user-attachments/assets/7ab90dac-4c15-4a7c-b330-ff269262117d){:style="width: 200px; height: auto;"}
 
