@@ -2,8 +2,12 @@
 layout: page
 title: "Research"
 ---
-I have been working on exoplanets all my PhD life, started with the detection of a warm neptune Transiting Exoplanet Survey Satellite (TESS) lightcurve and its radial velocity follow up. 
-/n 
-Later I moved on to planet atmospheres where I led my battle against Molecfit and PCA, to analyse one of the closest rocky planet to the sun. I had the oppurtunity to present this work as a [poster](https://drive.google.com/file/d/1FTNmDSWAXWPaZpwFlldrmOHAJz-9gzum/view?usp=sharing) in Open Problems in the Astrophysics of Gas Giants (OPAGA) 2023 conference. 
-/n
-Then, for my actual thesis, I started working on exoplanet demographics, mainly around Low massive stars (MK dwarfs). I am extensivlely using TESS data to look into the planet distributions around these stars. 
+I have been working on exoplanets throughout my PhD, focusing on the following areas:
+
+- **Exoplanet detections**: I worked under Prof. Andres Jordan and Prof. Rafeal Brahm for a semester with the detection of a warm Neptune using the Transiting Exoplanet Survey Satellite (TESS) lightcurve and its radial velocity follow-up.
+  
+- **Exoplanet Atmospheres**: I transitioned to studying planetary atmospheres, under Prof. Patricio Rojo, where I tackled the challenges of Molecfit and PCA to analyze one of the closest rocky planets to the Sun. I had the opportunity to present this work as a [poster](https://drive.google.com/file/d/1FTNmDSWAXWPaZpwFlldrmOHAJz-9gzum/view?usp=sharing) at the Open Problems in the Astrophysics of Gas Giants (OPAGA) 2023 conference.
+
+- **Exoplanet Demographics**: Currently, for my thesis, I am focusing on population studies of exoplanets, primarily around low-mass stars (M-dwarfs). I am extensively using TESS data to investigate the distribution of planets around these stars to understand planet formation and evolution around the low massive stars.
+
+Here is a link to my [CV]()
