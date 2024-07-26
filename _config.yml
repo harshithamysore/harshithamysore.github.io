@@ -24,7 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/harshithamysore"}
   - {title: Twitter, icon: twitter, url: "https://x.com/Harshitha_MP?t=MKkxIP9NqYSc5J_OuA4Ddg&s=08"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/harshithamparashivamurthy/"}
-
+  
 
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
