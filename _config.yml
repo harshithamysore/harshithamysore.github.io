@@ -17,7 +17,8 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title="Home"}
-  - {file: "README.md"}
+  - {file: "README.md", title="Research"}
+  - {file = "", title = "Outreach"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:harshitha@das.uchile.cl"}
@@ -25,9 +26,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Twitter, icon: x-twitter, url: "https://x.com/Harshitha_MP?t=MKkxIP9NqYSc5J_OuA4Ddg&s=08"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/harshithamparashivamurthy/"}
   
-
-  #- {title: Subscribe, icon: rss, url: "/feed.xml"}
-
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
