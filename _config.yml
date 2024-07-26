@@ -1,6 +1,6 @@
 title: "Harshitha M Parashivamurthy"
 author: "Harshitha"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Universidad de Chile style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
+  - {file: "index.html", title="Home"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:harshitha@das.uchile.cl"}
   - {title: Github, icon: github, url: "https://github.com/harshithamysore"}
-  - {title: Twitter, icon: twitter, url: "https://x.com/Harshitha_MP?t=MKkxIP9NqYSc5J_OuA4Ddg&s=08"}
+  - {title: Twitter, icon: x-twitter, url: "https://x.com/Harshitha_MP?t=MKkxIP9NqYSc5J_OuA4Ddg&s=08"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/harshithamparashivamurthy/"}
   
 
