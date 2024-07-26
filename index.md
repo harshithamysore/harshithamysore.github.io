@@ -12,7 +12,9 @@ I hold a Master’s degree in Physics from the University of Bangalore.
 
 div.c {font-size: 250%; }
 
-<div class="c">Research</div>
+<div class="c"> 
+    Research
+</div>
 I have been working on exoplanets all my PhD life, started with the detection of a warm neptune Transiting Exoplanet Survey Satellite (TESS) lightcurve and its radial velocity follow up. /n Later I moved on to planet atmospheres where I led my battle against Molecfit and PCA, to analyse one of the closest rocky planet to the sun. I had the oppurtunity to present this work as a poster(ADD LINK HERE TO THE WORD POSTER) in Open Problems in the Astrophysics of Gas Giants (OPAGA) 2023 conference. /n Then, for my actual thesis, I started working on exoplanet demographics, mainly around Low massive stars (MK dwarfs). I am extensivlely using TESS data to look into the planet distributions around these stars.
 
 
