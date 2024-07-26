@@ -6,7 +6,7 @@ I have been working on exoplanets throughout my PhD, focusing on the following a
 
 - **Exoplanet detections**: I worked under Prof. Andres Jordan and Prof. Rafeal Brahm for a semester with the detection of a warm Neptune using the Transiting Exoplanet Survey Satellite (TESS) lightcurve and its radial velocity follow-up.
   
-- **Exoplanet Atmospheres**: I transitioned to studying planetary atmospheres, under Prof. Patricio Rojo, where I tackled the challenges of Molecfit and PCA to analyze one of the closest rocky planets to the Sun. I had the opportunity to present this work as a [poster](https://drive.google.com/file/d/1FTNmDSWAXWPaZpwFlldrmOHAJz-9gzum/view?usp=sharing) at the Open Problems in the Astrophysics of Gas Giants (OPAGA) 2023 conference.
+- **Exoplanet Atmospheres**: I transitioned to studying planetary atmospheres, under Prof. Patricio Rojo, where I tackled the challenges of Molecfit and PCA to analyze the atmosphere of a rocky exoplanet with a high Transmission Spectroscopy Metric(TSM). I had the opportunity to present this work as a [poster](https://drive.google.com/file/d/1FTNmDSWAXWPaZpwFlldrmOHAJz-9gzum/view?usp=sharing) at the Open Problems in the Astrophysics of Gas Giants (OPAGA) 2023 conference.
 
 - **Exoplanet Demographics**: Currently, for my thesis, I am focusing on population studies of exoplanets, primarily around low-mass stars (M-dwarfs). I am extensively using TESS data to investigate the distribution of planets around these stars to understand planet formation and evolution around the low massive stars.
 
