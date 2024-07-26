@@ -10,4 +10,4 @@ I have been working on exoplanets throughout my PhD, focusing on the following a
 
 - **Exoplanet Demographics**: Currently, for my thesis, I am focusing on population studies of exoplanets, primarily around low-mass stars (M-dwarfs). I am extensively using TESS data to investigate the distribution of planets around these stars to understand planet formation and evolution around the low massive stars.
 
-Here is a link to my [CV]()
+Here is a link to my [CV](https://drive.google.com/file/d/1Dj84A3UiChxYqr21rE9LIADk_T3zhlch/view?usp=sharing)
