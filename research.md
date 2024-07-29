@@ -13,4 +13,4 @@ Project 1: [Exploring the Radius valley amongst the lowest mass stars with TESS]
 - **Exoplanet detections**: I worked under Prof. Andres Jordan and Prof. Rafeal Brahm for a semester with the detection of a warm Neptune using the Transiting Exoplanet Survey Satellite (TESS) lightcurve and its radial velocity follow-up.
 
   
-Here is a link to my [CV](https://drive.google.com/file/d/1Dj84A3UiChxYqr21rE9LIADk_T3zhlch/view?usp=sharing)
+Here is a link to my [CV](https://drive.google.com/file/d/1iyHWqGK0Dv0zT8DHhvrs2cbxXj2n4Glr/view?usp=sharing)
