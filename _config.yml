@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:harshitha@das.uchile.cl"}
   - {title: Github, icon: github, url: "https://github.com/harshithamysore"}
-  - {title: Twitter, icon: square-twitter, url: "https://x.com/Harshitha_MP?t=MKkxIP9NqYSc5J_OuA4Ddg&s=08"}
+  - {title: Twitter, icon: square-x-twitter, url: "https://x.com/Harshitha_MP?t=MKkxIP9NqYSc5J_OuA4Ddg&s=08"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/harshithamparashivamurthy/"}
   
 comments:
