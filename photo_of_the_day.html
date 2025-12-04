@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Dailies</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <style>
+        .gallery-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 30px;
+            padding: 40px;
+        }
+
+        .gallery-item {
+            text-align: center;
+        }
+
+        .gallery-item img {
+            width: 100%;
+            height: auto;
+            border-radius: 0; /* remove borders completely */
+            box-shadow: none; /* remove box shadow */
+        }
+
+        .description {
+            margin-top: 10px;
+            font-size: 0.9rem;
+            color:white;
+        }
+    </style>
+</head>
+
+<body>
+    <header id="header">
+        <h1>Dailies</h1>
+    </header>
+
+    <section class="gallery-container">
+
+        <!-- Example image block — duplicate for more images -->
+        <div class="gallery-item">
+            <img src="dayphoto/.jpg" alt="daily photo 1">
+            <div class="description">December 01, 2025. Plaza Patricio Aylwin Azócar, Providenica.</div>
+        </div>
+
+        <div class="gallery-item">
+            <img src="dayphoto/IMG_20230209_121755952.jpg" alt="daily photo 2">
+            <div class="description">December 04, 2025</div>
+        </div>
+
+      
+    </section>
+
+    <footer id="footer">
+        <a href="index.html" class="button">Back to Home</a>
+    </footer>
+
+</body>
+</html>
