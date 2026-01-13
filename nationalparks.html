@@ -7,6 +7,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="assets/css/main.css" />
     <style>
+    .park-section {
+        padding: 60px 40px;
+    }
+
+    .park-title {
+        text-align: center;
+        font-size: 1.6rem;
+        letter-spacing: 0.05em;
+        margin-bottom: 30px;
+        color: white;
+    }
+
+    .divider {
+        width: 60%;
+        margin: 80px auto;
+        border: none;
+        border-top: 1px solid rgba(255, 255, 255, 0.3);
+    }
         .gallery-container {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -38,38 +56,33 @@
         <h1>National parks</h1>
     </header>
 
-    <section class="gallery-container">
+<!-- ================== PARK 1 ================== -->
+<section class="park-section">
 
-        <!-- Example image block — duplicate for more images -->
+    <h2 class="park-title">Parque Nacional Siete Tazas</h2>
+
+    <div class="gallery-container">
         <div class="gallery-item">
-            <img src="nparks/7cups.jpg" alt="Architecture photo 1">
+            <img src="nparks/7cups.jpg" alt="Siete Tazas">
             <div class="description">Siete Tazas</div>
         </div>
 
         <div class="gallery-item">
-            <img src="nparks/waterfall.jpg" alt="Architecture photo 2">
+            <img src="nparks/waterfall.jpg" alt="Salto de la Leona">
             <div class="description">Salto de la Leona</div>
         </div>
 
         <div class="gallery-item">
-            <img src="nparks/birde.jpg" alt="Architecture photo 3">
+            <img src="nparks/birde.jpg" alt="El Velo de Novia">
             <div class="description">El Velo de Novia</div>
         </div>
+    </div>
 
-           <!-- <div class="gallery-item"> 
-            <img src="nparks/arica.jpg" alt="Architecture photo 3">
-            <div class="description">Sunset at Arica</div>
-        </div>
--->
-                    
+</section>
 
-        <!-- Add more blocks as needed -->
+<hr class="divider">
 
-    </section>
 
-    <footer id="footer">
-        <a href="index.html" class="button">Back to Home</a>
-    </footer>
 
 </body>
 </html>
